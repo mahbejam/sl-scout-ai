@@ -153,7 +153,7 @@ SL Scout is one product in the **SOUR LEMON** portfolio — a suite of AI-powere
 
 ## Project Status
 
-SL Scout AI represents the first public MVP of a larger product vision.
+SL Scout AI represents the first public MVP of the broader SOUR LEMON ecosystem.
 
 The current release demonstrates the core concept of AI-assisted market intelligence, product validation and customer targeting.
 
